@@ -1,4 +1,4 @@
-package pe.edu.cibertec.service;
+package pe.edu.cibertec.ws_t1_pena_sanchez.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.Async;
